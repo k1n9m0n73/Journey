@@ -1,0 +1,16 @@
+,day,temperature,condition,precipitation,wind
+0,Today,89°/79°,Partly Cloudy,10%,SW 13 mph
+1,Sat 12,90°/79°,Partly Cloudy,15%,SW 11 mph
+2,Sun 13,89°/79°,Partly Cloudy,15%,SW 11 mph
+3,Mon 14,89°/79°,Partly Cloudy,20%,SW 11 mph
+4,Tue 15,90°/79°,Partly Cloudy,15%,SW 10 mph
+5,Wed 16,90°/79°,Partly Cloudy,15%,WSW 10 mph
+6,Thu 17,90°/79°,Mostly Sunny,15%,WSW 12 mph
+7,Fri 18,90°/79°,Partly Cloudy,15%,WSW 11 mph
+8,Sat 19,90°/79°,Mostly Sunny,10%,SW 11 mph
+9,Sun 20,91°/79°,Partly Cloudy,20%,SW 11 mph
+10,Mon 21,90°/78°,Mostly Sunny,20%,SW 10 mph
+11,Tue 22,90°/78°,Partly Cloudy,20%,SW 10 mph
+12,Wed 23,90°/78°,Partly Cloudy,20%,WSW 9 mph
+13,Thu 24,90°/77°,Partly Cloudy,20%,WSW 9 mph
+14,Fri 25,90°/77°,AM Thunderstorms,45%,WSW 10 mph
